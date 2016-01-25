@@ -1,7 +1,9 @@
 # Telnet Client Server
 
 A simple telnet client server with following features : 
-	i)client autentication 
+  i)   client autentication 
+
+	i)
 	ii)hash password 
 	-memory cleaning
 	-login attempt log
