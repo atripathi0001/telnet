@@ -12,7 +12,9 @@ Future work :
 	i)		ecnryption of channel 
 	ii)		Server authentication
 
-The pass file contains ```<loginID, UserName, Password>``` tupple seprated by colon in the same order. 
+Note :
+
+1) The pass file contains ```<loginID, UserName, Password>``` tupple seprated by tab in the same order. 
 
 The login credentials are as follows -
 ```
@@ -22,7 +24,7 @@ Password : Password
 UserName : Guest
 Password : Gpassword
 ```
-The log is saved in the same folder and contains the following tuple:<UserName	DateTime  Command> 
+The log is saved in the same folder and contains the following tuple  ```<UserName, DateTime, Command> ``` 
 
 Installation:
 
