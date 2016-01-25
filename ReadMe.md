@@ -12,7 +12,9 @@ Future work :
 	i)		ecnryption of channel 
 	ii)		Server authentication
 
-The pass file contains loginID, UserName and Password tupple seprated by colon in the same order. The login credentials are as follows -
+The pass file contains ```<loginID, UserName, Password>``` tupple seprated by colon in the same order. 
+
+The login credentials are as follows -
 ```
 UserName : User
 Password : Password
