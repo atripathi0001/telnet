@@ -4,7 +4,7 @@ A simple telnet client server with following features :
 
 	i)		client autentication 
 	ii)		hash password 
-	iii)		          memory cleaning
+	iii)		 memory cleaning
 	iv)		logs for login and command usage
 
 Future work :
