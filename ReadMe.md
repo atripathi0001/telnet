@@ -29,7 +29,7 @@ Password : Gpassword
 Installation:
 
 	1)	Set the path in the path.py pointing to the server folder.
-	2)      The default port no is 1010 (can be updated in server.sh and client.sh to chnage)
+	2)   The default port no is 1010 (can be updated in server.sh and client.sh to chnage)
 	3)	Check the port no in clinet.sh and server.sh file and the ip address in client.sh file 
 	4)	Run the following command in same order(you might need sudo permission)	
 ```
