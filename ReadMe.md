@@ -24,7 +24,7 @@ Password : Password
 UserName : Guest
 Password : Gpassword
 ```
-The log is saved in the same folder and contains the following tuple  ```<UserName, DateTime, Command> ``` 
+2) The command log is saved in the same folder and contains the following tuple  ```<UserName, DateTime, Command> ``` 
 
 Installation:
 
